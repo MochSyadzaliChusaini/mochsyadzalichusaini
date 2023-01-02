@@ -11,6 +11,6 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 👬 Social
 - ⚽️ Always exercise like football and maintain health 🩺💊
 - 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
-- Politics
+- ☕🚬 At least know about Politics
 
-💻:octocat:☕🚬
+💻:octocat:
