@@ -5,8 +5,14 @@ Hello everyone! my name is Moch Syadzali Chusaini from Indonesia
 
 
 - Worked on IT life + Environtment & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++
-- Nahdlatul 'Ulama & Ngaji
-- | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
+- Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
+- Nature Lovers 🌏🌴
+- Animals
+- Speak 3 Languages
+- Social
+- Politics
+- Football
+- Health
 
 ### Hi there 👋
 
