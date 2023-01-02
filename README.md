@@ -1,4 +1,5 @@
 # Moch Syadzali Chusaini
+صل الله على محمد
 Hello everyone! my name is Moch Syadzali Chusaini from Indonesia 🇲🇾
 
 
