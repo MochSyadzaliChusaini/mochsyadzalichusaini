@@ -9,11 +9,11 @@ Hello everyone! my name is Moch Syadzali Chusaini from Indonesia. :octocat:
 - Nature Lovers 🌴🌏
 - Animals 🐱🐈
 - Speak 3 Languages (English, Arabic, and Kromo Javanese) 🗣️💬
-- Social 👬👫
-- Politics
-- Football
-- Health
-
+- Social 👬
+- Politics 👨‍💼
+- Football ⚽️
+- Health 🩺
+📚
 ### Hi there 👋
 
 **MochSyadzaliChusaini/mochsyadzalichusaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
