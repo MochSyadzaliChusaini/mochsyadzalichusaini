@@ -1,6 +1,6 @@
 # Moch Syadzali Chusaini
 
-##### IT & Business | Ngaji - NU | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
+#### Working on IT life + Environtment & Business everyday consistently and istiqomah | Ngaji - NU | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
 
 ### Hi there 👋
 
