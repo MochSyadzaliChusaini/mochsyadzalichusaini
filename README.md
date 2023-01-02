@@ -1,5 +1,5 @@
 # Moch Syadzali Chusaini
-Hello everyone! my name is Moch Syadzali Chusaini from Indonesia 🇮🇩
+Hello everyone! my name is Moch Syadzali Chusaini from Indonesia 🇲🇾
 
 
 - Working on IT life + Environtment & Business everyday consistently and istiqomah
