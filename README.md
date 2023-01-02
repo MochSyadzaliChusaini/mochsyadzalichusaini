@@ -15,6 +15,34 @@
 
 #### come discuss and drink coffee and smoke with me! ☕🚬
 
-### SKILLS OR ABILITIES :
+### IT SKILLS OR ABILITIES :
+- Programming (HTML,CSS,JS)
+- Internet Marketplace Seller
+- Content Creator At YouTube
+- Mining Bitcoin or Cryptocurrency
+- GNU/Linux
+- Penetration Testing
+- CTF
+
+### other skills :
+- ngaji
+- speak english, arabic, kromo javanese
+- pagar nusa
+
 ### Interest :
-### Follow Social Media :
+- ...
+- ...
+- ...
+### Follow Social Media
+- BioLink : https://mochsyadzalichusaini.bio.link
+- Official Website : https://www.mochsyadzalichusaini.com (still process)
+- GitHub Page : https://mochsyadzalichusaini.github.io
+- YouTube Channel : https://www.youtube.com/@moch.syadzali.chusaini
+- Facebook : https://www.facebook.com/mochsyadzalichusaini.facebookfanspage
+- Instagram : https://www.instagram.com/mochsyadzalichusaini/
+- Twitter : https://twitter.com/moch_syadzali
+- Support Me (Buy Me A Coffee) : https://www.buymeacoffee.com/mochsyadzali
+- Support Me (Trakteer) : https://trakteer.id/mochsyadzalichusaini
+- Support Me (Patreon) : https://www.patreon.com/user?u=85036487
+- Support Me (PayPal) : https://www.paypal.com/paypalme/mochsyadzalichusaini
+- more : https://mochsyadzalichusaini.bio.link
