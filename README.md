@@ -10,7 +10,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 🗣️💬 Speak 3 Languages (English, Arabic, and Kromo Javanese)
 - 👬 Social
 - ⚽️ Always exercise like football and maintain health 🩺💊
-- 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
+- 📚📖 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
 - Politics
 
 💻:octocat:☕🚬
