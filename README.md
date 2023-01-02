@@ -5,7 +5,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 
 - 🎯 Worked on IT life + Environtment & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++
-- 🌴 Nature Lovers
+- 🌴🌏🌱 Nature Lovers
 - 🐈 Animals
 - 💬 Speak 3 Languages (English, Arabic, and Kromo Javanese)
 - 👬 Social
@@ -13,4 +13,4 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
 - Politics
 
-💻:octocat:☕🚬 🌏🌱📖
+💻:octocat:☕🚬
