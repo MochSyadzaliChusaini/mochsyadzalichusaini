@@ -11,8 +11,7 @@ Hello everyone! my name is Moch Syadzali Chusaini from Indonesia. :octocat:
 - 🐱🐈 Animals
 - 👬 Social
 - 👨‍💼 Politics
-- ⚽️ Football
-- 🩺💊 Health
+- Always exercise like football ⚽️ and maintain health 🩺💊
 
 📚
 ### Hi there 👋
