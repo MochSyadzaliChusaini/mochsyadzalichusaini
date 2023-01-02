@@ -1,4 +1,6 @@
 # Moch Syadzali Chusaini
+Hello everyone! my name is Moch Syadzali Chusaini from Indonesia 🇮🇩
+
 
 - Working on IT life + Environtment & Business everyday consistently and istiqomah
 - Ngaji - NU | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
