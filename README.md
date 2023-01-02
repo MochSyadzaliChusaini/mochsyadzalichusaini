@@ -13,4 +13,4 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
 - Politics
 
-📚:octocat:☕🚬💻
+📚💻:octocat:☕🚬
