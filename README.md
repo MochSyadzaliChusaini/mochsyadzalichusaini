@@ -4,8 +4,9 @@
 Hello everyone! my name is Moch Syadzali Chusaini from Indonesia
 
 
-- Working on IT life + Environtment & Business everyday consistently and istiqomah
-- Ngaji - NU | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
+- Worked on IT life + Environtment & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++
+- Ngaji - NU
+- | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
 
 ### Hi there 👋
 
