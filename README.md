@@ -16,3 +16,5 @@
 #### come discuss and drink coffee and smoke with me! ☕🚬
 
 ### SKILLS OR ABILITIES :
+### Interest :
+### Follow Social Media :
