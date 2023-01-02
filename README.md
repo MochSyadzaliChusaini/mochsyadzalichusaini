@@ -1,5 +1,7 @@
 # Moch Syadzali Chusaini
 
+### IT & Business | Ngaji - NU | Nature | Animals | Social | Politics | Football | Health | Speak 3 Languages
+
 ### Hi there 👋
 
 **MochSyadzaliChusaini/mochsyadzalichusaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
