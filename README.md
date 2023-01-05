@@ -41,10 +41,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://MochSyadzaliChusaini.github.io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moch-syadzali-chusaini-33908225a/)
 
-
-- BioLink : https://mochsyadzalichusaini.bio.link
 - Official Website : https://www.mochsyadzalichusaini.com (still process)
-- GitHub Page : https://mochsyadzalichusaini.github.io
 - more : https://mochsyadzalichusaini.bio.link
 
 
