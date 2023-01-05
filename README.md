@@ -56,3 +56,4 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 [!["Trakteer"](https://img.shields.io/badge/Support%20On-Trakteer.id-red)](https://trakteer.id/mochsyadzalichusaini)
 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mochsyadzalichusaini#checkoutModal)
