@@ -20,10 +20,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - Programming (HTML,CSS,JS)
 - Internet Marketplace Seller
 - Content Creator At YouTube
-- Mining Bitcoin or Cryptocurrency
 - GNU/Linux
-- Penetration Testing
-- CTF
 
 ### other skills :
 - ngaji
@@ -31,9 +28,12 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - pagar nusa
 
 ### Interest :
-- ...
-- ...
-- ...
+- Node.js
+- Electron.js
+- Mining Bitcoin or Cryptocurrency
+- Penetration Testing
+- CTF
+
 ### Follow Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mochsyadzalichusaini/)
