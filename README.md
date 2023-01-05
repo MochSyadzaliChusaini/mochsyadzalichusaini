@@ -39,8 +39,8 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - Official Website : https://www.mochsyadzalichusaini.com (still process)
 - GitHub Page : https://mochsyadzalichusaini.github.io
 - YouTube Channel : https://www.youtube.com/@moch.syadzali.chusaini
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
-- Instagram : https://www.instagram.com/mochsyadzalichusaini/
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mochsyadzalichusaini/)
 - Twitter : https://twitter.com/moch_syadzali
 - Support Me (Buy Me A Coffee) : https://www.buymeacoffee.com/mochsyadzali
 - Support Me (Trakteer) : https://trakteer.id/mochsyadzalichusaini
