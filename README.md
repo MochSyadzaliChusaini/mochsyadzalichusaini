@@ -59,5 +59,5 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 [!["Trakteer"](https://img.shields.io/badge/Support%20On-Trakteer.id-red)](https://trakteer.id/mochsyadzalichusaini)
 
 [!["GitHub Sponsor"](https://img.shields.io/github/sponsors/mochsyadzalichusaini?color=blue&label=GitHub%20Sponsors&logo=github&logoColor=white&style=for-the-badge)](https://github.com/sponsors/MochSyadzaliChusaini)
-![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)(https://github.com/sponsors/MochSyadzaliChusaini)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/MochSyadzaliChusaini)
 
