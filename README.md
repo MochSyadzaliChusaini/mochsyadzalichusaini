@@ -28,7 +28,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - pagar nusa
 
 ### Interest :
-- JS Framework/Environtment (Node.js,Electron,MERN STack,etc.)
+- JS Framework/Environtment (Node.js,Electron,MERN Stack,etc.)
 - Mining Bitcoin or Cryptocurrency
 - Penetration Testing
 - CTF
