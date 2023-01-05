@@ -1,7 +1,7 @@
 # Moch Syadzali Chusaini 
 السلام عليكم ورحمة الله وبركاته . بسم الله الرحمن الرحيم . إسمي محمد شاذلي حسيني من قرية البدق التغالي الجاوي الإندونسيي الشافعي وفي جمعية الكبير في الدنيا وإنشاء الله في الأخيرة إسمه جمعية **نهضة العلماء** علي طرقة اهل السنة والجمعة النهضية. اللهم صل وسلم وبارك علي سيدنا ومولانا محمد وعلى اله وصحبه وبارك وسلم اجمعين
 
-<center> [!["Nahdlatul Ulama"](https://i.ibb.co/cYc9nkB/Whats-App-Image-2019-12-08-at-10-09-19.jpg)](https://www.nu.or.id) </center>
+[!["Nahdlatul Ulama"](https://i.ibb.co/cYc9nkB/Whats-App-Image-2019-12-08-at-10-09-19.jpg)](https://www.nu.or.id)
 
 Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
@@ -51,3 +51,4 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 ### Support Me On :
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+[!["PayPal"](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1200px-PayPal.svg.png)](https://paypal.me/mochsyadzalichusaini)
