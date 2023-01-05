@@ -3,8 +3,6 @@
 
 Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
-[!["Nahdlatul Ulama"](https://i.ibb.co/cYc9nkB/Whats-App-Image-2019-12-08-at-10-09-19.jpg)](https://www.nu.or.id)
-
 - 🎯 Worked on IT life + Environtment 💻 & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++ 
 - 🌴🌏🌱 Nature Lovers
 - 🐈 Animals
@@ -13,6 +11,8 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - ⚽️ Always exercise like football and maintain health 🩺💊
 - 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
 - 📌 At least know about Politics
+
+[!["Nahdlatul Ulama"](https://i.ibb.co/cYc9nkB/Whats-App-Image-2019-12-08-at-10-09-19.jpg)](https://www.nu.or.id)
 
 #### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
 
@@ -39,7 +39,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - Official Website : https://www.mochsyadzalichusaini.com (still process)
 - GitHub Page : https://mochsyadzalichusaini.github.io
 - YouTube Channel : https://www.youtube.com/@moch.syadzali.chusaini
-- Facebook : https://www.facebook.com/mochsyadzalichusaini.facebookfanspage
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
 - Instagram : https://www.instagram.com/mochsyadzalichusaini/
 - Twitter : https://twitter.com/moch_syadzali
 - Support Me (Buy Me A Coffee) : https://www.buymeacoffee.com/mochsyadzali
