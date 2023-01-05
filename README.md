@@ -50,5 +50,5 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 
 ### Support Me On :
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
-[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dhttps%3A%2F%2Fwww.patreon.com%2Fuser%3Fu%3D85036487%26type%3Dpatrons&style=flat)](https://patreon.com/https://www.patreon.com/user?u=85036487)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mochsyadzali)
+[!["PayPal"](https://img.shields.io/badge/Donate%20with-PayPal-blue?logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
