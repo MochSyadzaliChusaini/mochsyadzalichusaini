@@ -30,8 +30,8 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 ### Interest :
 - JS Framework/Environtment (Node.js,Electron,MERN Stack,etc.)
 - Mining Bitcoin or Cryptocurrency
-- Penetration Testing
 - CTF
+- Penetration Testing
 
 ### Follow Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
