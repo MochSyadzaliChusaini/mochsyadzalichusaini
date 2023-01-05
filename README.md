@@ -55,4 +55,4 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 [!["PayPal"](https://camo.githubusercontent.com/48ab20d2e888423367daad9bdc4e015ea40fb6724c93b17ee4e50dc091bf947a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736869656c64732d70617970616c2d626c75653f6c6f676f3d70617970616c)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
 [!["PayPal"](https://img.shields.io/badge/Donate%20With-PayPal-blue)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
 
-[!["Patreon"](https://img.shields.io/badge/dynamic/json?color=%23e85b46&label=Patreon&query=data.attributes.patron_count&suffix=%20patrons&url=https%3A%2F%2Fwww.patreon.com%2Fapi%2Fcampaigns%2F73401)](https://www.patreon.com/user?u=85036487)
+[!["Patreon"](https://img.shields.io/badge/Patreon-0%20Patrons-orange)](https://www.patreon.com/user?u=85036487)
