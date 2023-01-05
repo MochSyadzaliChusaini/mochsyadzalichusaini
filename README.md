@@ -12,8 +12,6 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
 - 📌 At least know about Politics
 
-#### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
-
 ### IT SKILLS OR ABILITIES :
 - Programming (HTML,CSS,JS)
 - Internet Marketplace Seller
@@ -30,6 +28,8 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - Mining Bitcoin or Cryptocurrency
 - CTF
 - Penetration Testing
+
+#### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
 
 ### Follow Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mochsyadzalichusaini.facebookfanspage)
