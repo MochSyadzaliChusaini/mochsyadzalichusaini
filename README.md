@@ -4,11 +4,10 @@
 Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 - 🎯 Worked on IT life + Environtment 💻 & Business everyday consistently and istiqomah. Such as : pursuing Coding or Open Source Software App Programmer and start focus on Frontend Developer with JS and Its Environtment, Internet Marketplace Seller, Content Creators on YouTube, and more++ 
-- 🌴🌏🌱 Nature Lovers
-- 🐈 Animals
+- 🌴🌏🌱 Nature Lovers and Animals 🐈
 - 💬 Speak 3 Languages (English, Arabic, and Kromo Javanese)
-- ⚽️ Always exercise like football | 🩺💊 maintain health | 👬 Social | 📌 and At least know about Politics
 - 📚 Hobi Mengaji dan Warga **Nahdlatul 'Ulama** asal Tegal
+- ⚽️ Always exercise like football | maintain health 🩺💊 | Social 👬 | and At least know about Politics 📌
 
 ### IT SKILLS OR ABILITIES :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
