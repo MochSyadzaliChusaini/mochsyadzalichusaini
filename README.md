@@ -150,11 +150,11 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
 
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/MochSyadzaliChusaini)
-[!["GitHub Sponsor"](https://img.shields.io/github/sponsors/mochsyadzalichusaini?color=blue&label=GitHub%20Sponsors&logo=github&logoColor=white&style=for-the-badge)](https://github.com/sponsors/MochSyadzaliChusaini)
+[!["Trakteer"](https://img.shields.io/badge/Support%20On-Trakteer.id-red)](https://trakteer.id/mochsyadzalichusaini)
 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/user?u=85036487)
 
-[!["Trakteer"](https://img.shields.io/badge/Support%20On-Trakteer.id-red)](https://trakteer.id/mochsyadzalichusaini)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/MochSyadzaliChusaini)
+[!["GitHub Sponsor"](https://img.shields.io/github/sponsors/mochsyadzalichusaini?color=blue&label=GitHub%20Sponsors&logo=github&logoColor=white&style=for-the-badge)](https://github.com/sponsors/MochSyadzaliChusaini)
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mochsyadzalichusaini)
