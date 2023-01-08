@@ -73,7 +73,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 
 ### Support Me On :
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mochsyadzali)
+<a href="https://www.buymeacoffee.com/mochsyadzali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 140px !important;" ></a>
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
 
