@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://mochsyadzalichusaini.bio.link" target="_blank">https://www.MochSyadzaliChusaini.com</a>
+  <a href="https://mochsyadzalichusaini.bio.link" target="_blank">https://www.mochsyadzalichusaini.com</a>
 </h1>
 السلام عليكم ورحمة الله وبركاته . بسم الله الرحمن الرحيم . إسمي محمد شاذلي حسيني من قرية البدق التغالي الجاوي الإندونسيي الشافعي وفي جمعية الكبير في الدنيا وإنشاء الله في الأخيرة إسمه جمعية **نهضة العلماء** علي طرقة اهل السنة والجمعة النهضية. اللهم صل وسلم وبارك علي سيدنا ومولانا محمد وعلى اله وصحبه وبارك وسلم اجمعين.
 
