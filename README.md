@@ -74,7 +74,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - more : https://mochsyadzalichusaini.bio.link
 
 
-### Support Me On :
+### Support Us :
 [![buymeacoffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/mochsyadzali)
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
