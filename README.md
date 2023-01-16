@@ -54,7 +54,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
 #### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
 
-### Follow Social Media
+### Follow Us
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@moch.syadzali.chusaini)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mochsyadzalichusaini/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/moch_syadzali)
@@ -74,7 +74,7 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - more : https://mochsyadzalichusaini.bio.link
 
 
-### Support Us :
+### Support Me On :
 [![buymeacoffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg)](https://www.buymeacoffee.com/mochsyadzali)
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mochsyadzalichusaini)
