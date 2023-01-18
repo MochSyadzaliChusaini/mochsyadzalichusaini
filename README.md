@@ -1,7 +1,8 @@
 <h1 align="center">
   <a href="https://mochsyadzalichusaini.bio.link" target="_blank">https://www.mochsyadzalichusaini.com</a>
 </h1>
-السلام عليكم ورحمة الله وبركاته . بسم الله الرحمن الرحيم . إسمي محمد شاذلي حسيني من قرية البدق التغالي الجاوي الإندونسيي الشافعي وفي جمعية الكبير في الدنيا وإنشاء الله في الأخيرة إسمه جمعية **نهضة العلماء** علي طرقة اهل السنة والجمعة النهضية. اللهم صل وسلم وبارك علي سيدنا ومولانا محمد وعلى اله وصحبه وبارك وسلم اجمعين.
+السلام عليكم ورحمة الله وبركاته . بسم الله الرحمن الرحيم . إسمي محمد شاذلي حسيني من قرية البدق التغالي الجاوي الإندونسيي الشافعي وفي جمعية الكبير في الدنيا وإنشاء الله في الأخيرة إسمه جمعية **نهضة العلماء** علي طرقة اهل السنة والجمعة النهضية. اللهم صل وسلم وبارك علي سيدنا ومولانا محمد وعلى اله وصحبه وبارك وسلم اجمعين
+
 
 Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 
@@ -10,8 +11,6 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 📚 Hobby Mengaji and [**Nahdlatul 'Ulama**](https://www.nu.or.id) citizen from Tegal
 - 💬 Speak 3 Languages (English, Arabic, and Kromo Javanese)
 - ⚽️ Always exercise like football | maintain health 🩺💊 | Social 👬 | and At least know about Politics 📌
-
-- [![YouTube Badge](https://img.shields.io/badge/-@Musliadi-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/@mochsyadzalichusaini)
 
 ### IT SKILLS OR ABILITIES :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
