@@ -11,6 +11,8 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 - 💬 Speak 3 Languages (English, Arabic, and Kromo Javanese)
 - ⚽️ Always exercise like football | maintain health 🩺💊 | Social 👬 | and At least know about Politics 📌
 
+- [![YouTube Badge](https://img.shields.io/badge/-@Musliadi-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/@mochsyadzalichusaini)
+
 ### IT SKILLS OR ABILITIES :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +57,6 @@ Hello There! 👋 my name is Moch Syadzali Chusaini from Indonesia ✨
 #### :octocat: come discuss and drink coffee and smoke with me! ☕🚬
 
 ### Follow Us
-- [![YouTube Badge](https://img.shields.io/badge/-@Musliadi-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)](https://www.youtube.com/channel/UC9Ob26gpVr6g6re1rYlpKfg)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@moch.syadzali.chusaini)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mochsyadzalichusaini/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/moch_syadzali)
